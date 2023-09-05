@@ -2,7 +2,7 @@
 
 ## 🌱 About me
 
-- I'm a 3rd year student of Information Technology at ITMO University with a major in Mobile and Network Technologies. 
+- I'm a 4rd year student of Information Technology at ITMO University with a major in Mobile and Network Technologies. 
 - I'm eager to gain experience in a team working on the development of mini-applications, websites, and internal and partner services for IT companies by utilizing my - skills in attention to detail, creativity, design and out-of-the-box thinking. 
 - I'm motivated to learn and grow under the guidance of experienced mentors.
 
